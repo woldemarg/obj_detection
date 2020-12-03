@@ -8,9 +8,9 @@ List of tutorials from PyImageSearch
 List of tutorials from PyImageSearch
     * [part 1](https://www.pyimagesearch.com/2019/05/20/transfer-learning-with-keras-and-deep-learning/)
     * [part 2](https://www.pyimagesearch.com/2019/05/27/keras-feature-extraction-on-large-datasets-with-deep-learning/)
+    * [part 3](https://www.pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning/)
 
-
-List of basic concepts:
+### List of basic concepts:
 1. Non-Maximum Suppression:
     * [link 1](https://www.pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python/)
     * [link 2](https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c)
@@ -29,7 +29,11 @@ List of basic concepts:
     * [link](https://www.pyimagesearch.com/2020/06/29/opencv-selective-search-for-object-detection/)
 7. Intersection-over-Union:
     * [link](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)
-8. Incremental learning
+8. Incremental learning:
     * [link 1](https://scikit-learn.org/0.15/modules/scaling_strategies.html#incremental-learning)
     * [link 2](https://www.pyimagesearch.com/2019/05/27/keras-feature-extraction-on-large-datasets-with-deep-learning/)
     * [link 3](https://www.pyimagesearch.com/2019/06/17/online-incremental-learning-with-keras-and-creme/)
+9. Data Augmentation:
+    * [link 1](https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/)
+    * [link 2](https://github.com/aleju/imgaug)
+    * [link 3](https://keras-ocr.readthedocs.io/en/latest/examples/end_to_end_training.html#generating-synthetic-data)

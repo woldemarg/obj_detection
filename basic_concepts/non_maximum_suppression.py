@@ -63,8 +63,9 @@ def non_max_suppression(boxes, probs=None, overlapThresh=0.3):
 
         # delete all indexes from the index list that have overlap greater
         # than the provided overlap threshold
-        idxs = np.delete(idxs, np.concatenate(([last],
-                                               np.where(overlap > overlapThresh)[0])))
+        idxs = np.delete(idxs,
+                         np.concatenate(([last],
+                                         np.where(overlap > overlapThresh)[0])))
 
     # return only the bounding boxes that were picked
     return boxes[pick].astype("int")
@@ -99,4 +100,4 @@ cv2.rectangle(orig,
               3)
 
 orig_RGB = cv2.cvtColor(orig, cv2.COLOR_BGR2RGB)
-plt.imshow(orig_RGB)
+# plt.imshow(orig_RGB)

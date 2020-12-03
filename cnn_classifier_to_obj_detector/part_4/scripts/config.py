@@ -38,8 +38,8 @@ MAX_NEGATIVE = 10
 # initialize the input dimensions to the network
 INPUT_DIMS = (224, 224)
 # define the path to the output model and label binarizer
-MODEL_PATH = "raccoon_detector.h5"
-ENCODER_PATH = "label_encoder.pickle"
+MODEL_PATH = r"cnn_classifier_to_obj_detector\part_4\raccoon_detector.h5"
+ENCODER_PATH = r"cnn_classifier_to_obj_detector\part_4\label_encoder.pickle"
 # define the minimum probability required for a positive prediction
 # (used to filter out false-positive predictions)
 MIN_PROBA = 0.99
