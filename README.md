@@ -2,6 +2,7 @@
 List of tutorials from PyImageSearch
 * [part 1](https://www.pyimagesearch.com/2020/06/22/turning-any-cnn-image-classifier-into-an-object-detector-with-keras-tensorflow-and-opencv/)
 * [part 2](https://www.pyimagesearch.com/2020/06/29/opencv-selective-search-for-object-detection/)
+* [part 3]()
 
 ### Transfer Learning
 List of tutorials from PyImageSearch
