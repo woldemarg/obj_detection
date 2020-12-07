@@ -2,13 +2,27 @@
 List of tutorials from PyImageSearch
 * [part 1](https://www.pyimagesearch.com/2020/06/22/turning-any-cnn-image-classifier-into-an-object-detector-with-keras-tensorflow-and-opencv/)
 * [part 2](https://www.pyimagesearch.com/2020/06/29/opencv-selective-search-for-object-detection/)
-* [part 3]()
+* [part 3](https://www.pyimagesearch.com/2020/07/06/region-proposal-object-detection-with-opencv-keras-and-tensorflow/)
+* [part 4](https://www.pyimagesearch.com/2020/07/13/r-cnn-object-detection-with-keras-tensorflow-and-deep-learning/)
 
 ### Transfer Learning
 List of tutorials from PyImageSearch
-    * [part 1](https://www.pyimagesearch.com/2019/05/20/transfer-learning-with-keras-and-deep-learning/)
-    * [part 2](https://www.pyimagesearch.com/2019/05/27/keras-feature-extraction-on-large-datasets-with-deep-learning/)
-    * [part 3](https://www.pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning/)
+* [part 1](https://www.pyimagesearch.com/2019/05/20/transfer-learning-with-keras-and-deep-learning/)
+* [part 2](https://www.pyimagesearch.com/2019/05/27/keras-feature-extraction-on-large-datasets-with-deep-learning/)
+* [part 3](https://www.pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning/)
+
+### TF2 Object Detection API
+1. Installation:
+    * [main](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html)
+    * [models](https://github.com/tensorflow/models)
+    * [note 1](https://stackoverflow.com/a/62483993/6025592)
+    * [note 2](https://github.com/keras-team/autokeras/issues/1296)
+
+
+### Transfer-learning frameworks of building object detectors for arbitrary new classes
+    * [author's graph](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=obj_detection.html#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1j95XoqyjE5Wv89KHblT7h28tpa6LHitj%26export%3Ddownload)
+
+
 
 ### List of basic concepts:
 1. Non-Maximum Suppression:

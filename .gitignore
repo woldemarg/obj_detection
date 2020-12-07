@@ -6,8 +6,10 @@
 **/example_prep
 **/Food-5K/*
 **/dataset/*
+**/datasets/*
 **/racoons/*
 **/output/*.csv
+**/models/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
