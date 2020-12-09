@@ -11,15 +11,24 @@ List of tutorials from PyImageSearch
 * [part 2](https://www.pyimagesearch.com/2019/05/27/keras-feature-extraction-on-large-datasets-with-deep-learning/)
 * [part 3](https://www.pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning/)
 
+### 'Links Detector' as end-to-end learning project
+* [DOU](https://dou.ua/forums/topic/32156/?from=tg-tech)
+* [TDS](https://towardsdatascience.com/making-the-printed-links-clickable-using-tensorflow-2-object-detection-api-be42bd65488a)
+
+
 ### TF2 Object Detection API
-1. Installation:
+1. TF2 OD API installation:
     * [main](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html)
-    * [models](https://github.com/tensorflow/models)
-    * [note 1](https://stackoverflow.com/a/62483993/6025592)
-    * [note 2](https://github.com/keras-team/autokeras/issues/1296)
+    * [!note 1](https://stackoverflow.com/a/62483993/6025592)
+    * [!note 2](https://github.com/keras-team/autokeras/issues/1296)
+2. TF2 OD API custom training
+    * [main](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html#preparing-the-dataset)
+    * [link 2](https://medium.com/swlh/guide-to-tensorflow-object-detection-tensorflow-2-e55ba3cdbc03)
+3. TensorBoard
+    * [!note](https://github.com/tensorflow/tensorboard/issues/3117#issuecomment-605531669)
 
 
-### Transfer-learning frameworks of building object detectors for arbitrary new classes
+### Transfer-learning for object detectors of arbitrary new classes
     * [author's graph](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=obj_detection.html#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1j95XoqyjE5Wv89KHblT7h28tpa6LHitj%26export%3Ddownload)
 
 

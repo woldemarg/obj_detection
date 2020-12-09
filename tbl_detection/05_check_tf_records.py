@@ -2,11 +2,11 @@ import tensorflow as tf
 import numpy as np
 from google.protobuf import text_format
 import matplotlib.pyplot as plt
-from tf2_obj_detection_api.models.research.object_detection.utils import (
+from tbl_detection.models.research.object_detection.utils import (
     visualization_utils)
-from tf2_obj_detection_api.models.research.object_detection.protos import (
+from tbl_detection.models.research.object_detection.protos import (
     string_int_label_map_pb2)
-from tf2_obj_detection_api.models.research.object_detection.data_decoders.tf_example_decoder import (
+from tbl_detection.models.research.object_detection.data_decoders.tf_example_decoder import (
     TfExampleDecoder)
 from tbl_detection import config
 
@@ -86,5 +86,5 @@ def visualize_tfrecords(tfrecords_filename,
 visualize_tfrecords(
     tfrecords_filename=config.TRAIN_RECORD,
     label_map=config.LABEL_MAP,
-    print_num=3
+    print_num=10
 )
