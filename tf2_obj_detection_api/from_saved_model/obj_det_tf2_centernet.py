@@ -123,8 +123,6 @@ def load_image_into_numpy_array(path):
 
 for image_path in IMAGE_PATHS:
 
-    image_path = IMAGE_PATHS[0]
-
     print('Running inference for {}... '.format(image_path), end='')
 
     image_np = load_image_into_numpy_array(image_path)
@@ -156,6 +154,7 @@ for image_path in IMAGE_PATHS:
     # detection_classes should be ints.
     detections['detection_classes'] = (detections['detection_classes']
                                        .astype(np.int64))
+    print('Done')
 
     image_np_with_detections = image_np.copy()
 
@@ -172,6 +171,5 @@ for image_path in IMAGE_PATHS:
 
     plt.figure()
     plt.imshow(image_np_with_detections)
-    print('Done')
-plt.show()
+    plt.show()
 
