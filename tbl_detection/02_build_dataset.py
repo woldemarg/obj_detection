@@ -37,6 +37,8 @@ for i, image_path in enumerate(image_paths):
         if label == 'cell':
             o.decompose()
 
+    soup.depth.string = '1'
+
     # output from BS without extraneous newlines
     # https://stackoverflow.com/a/58346786/6025592
     xml_string = et.fromstring(soup.decode_contents())

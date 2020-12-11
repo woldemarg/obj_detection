@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>ICDAR 19 MODERN</folder>
+  <filename>cTDaR_t10097_aug_1.jpg</filename>
+  <path>/media/devashish/Local Disk/Research/Projects/Table Project/ICDAR 19 MODERN/cTDaR_t10097.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>794</width>
+    <height>1123</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>borderless</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>8</xmin>
+      <ymin>105</ymin>
+      <xmax>714</xmax>
+      <ymax>259</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>borderless</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>8</xmin>
+      <ymin>429</ymin>
+      <xmax>714</xmax>
+      <ymax>482</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>borderless</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>8</xmin>
+      <ymin>581</ymin>
+      <xmax>714</xmax>
+      <ymax>674</ymax>
+    </bndbox>
+  </object>
+</annotation>

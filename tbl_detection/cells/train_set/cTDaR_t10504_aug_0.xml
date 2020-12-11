@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>4_ksk</folder>
+  <filename>cTDaR_t10504_aug_0.jpg</filename>
+  <path>E:\KSK ML\KSK PAPERS\TabXNet\4_ksk\cTDaR_t10504.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>797</width>
+    <height>1124</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>borderless</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>16</xmin>
+      <ymin>66</ymin>
+      <xmax>698</xmax>
+      <ymax>349</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>borderless</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>14</xmin>
+      <ymin>423</ymin>
+      <xmax>698</xmax>
+      <ymax>577</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>gt_train</folder>
+  <filename>cTDaR_t10252_aug_2.jpg</filename>
+  <path>E:\KSK ML\gt_train\cTDaR_t10252.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1123</width>
+    <height>794</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>borderless</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>52</xmin>
+      <ymin>86</ymin>
+      <xmax>1069</xmax>
+      <ymax>403</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>borderless</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>32</xmin>
+      <ymin>394</ymin>
+      <xmax>1048</xmax>
+      <ymax>710</ymax>
+    </bndbox>
+  </object>
+</annotation>

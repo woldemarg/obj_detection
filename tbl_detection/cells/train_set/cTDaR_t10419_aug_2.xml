@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>Ayan</folder>
+  <filename>cTDaR_t10419_aug_2.jpg</filename>
+  <path>/media/devashish/Local Disk/Research/Projects/Table Project/Chunk/Ayan/cTDaR_t10419.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>794</width>
+    <height>1059</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>borderless</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>58</xmin>
+      <ymin>73</ymin>
+      <xmax>626</xmax>
+      <ymax>284</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>borderless</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>62</xmin>
+      <ymin>417</ymin>
+      <xmax>634</xmax>
+      <ymax>722</ymax>
+    </bndbox>
+  </object>
+</annotation>

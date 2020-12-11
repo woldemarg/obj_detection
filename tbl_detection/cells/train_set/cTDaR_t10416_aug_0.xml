@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>Ayan</folder>
+  <filename>cTDaR_t10416_aug_0.jpg</filename>
+  <path>D:\Egien Elites\TableNet\Dataset\Chunk\Ayan\cTDaR_t10416.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>794</width>
+    <height>1059</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>borderless</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>44</xmin>
+      <ymin>260</ymin>
+      <xmax>587</xmax>
+      <ymax>562</ymax>
+    </bndbox>
+  </object>
+</annotation>

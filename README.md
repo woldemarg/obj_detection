@@ -33,7 +33,7 @@ List of tutorials from PyImageSearch
 
 
 
-### List of basic concepts:
+### List of basic concepts/tools:
 1. Non-Maximum Suppression:
     * [link 1](https://www.pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python/)
     * [link 2](https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c)
@@ -60,3 +60,7 @@ List of tutorials from PyImageSearch
     * [link 1](https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/)
     * [link 2](https://github.com/aleju/imgaug)
     * [link 3](https://keras-ocr.readthedocs.io/en/latest/examples/end_to_end_training.html#generating-synthetic-data)
+    * [link 4](https://towardsdatascience.com/tensorflow-and-image-augmentation-3610c6c243a2)
+10. Image Labelling:
+    * [link](https://github.com/tzutalin/labelImg#windows--anaconda)
+

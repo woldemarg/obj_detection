@@ -22,4 +22,9 @@ TEST_CSV = os.path.sep.join([LABELS_CSV, 'test.csv'])
 LOGS = r'D:\holomb_learn\obj_detection\tbl_detection\train_logs'
 MODEL_DATE = '20200711'
 MODEL_NAME = 'ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8'
+# MODEL_NAME = 'efficientdet_d2_coco17_tpu-32'
 MODEL_FOLDER = r'D:\holomb_learn\obj_detection\tbl_detection\model_data'
+SAVED_MODEL = os.path.sep.join([r'D:\holomb_learn\obj_detection\tbl_detection\saved_model',
+                                MODEL_NAME,
+                                'saved_model'])
+NUM_AUG = 3

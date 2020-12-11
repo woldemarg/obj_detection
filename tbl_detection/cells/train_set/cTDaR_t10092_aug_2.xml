@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>250</folder>
+  <filename>cTDaR_t10092_aug_2.jpg</filename>
+  <path>/home/neo/Desktop/Table Structure Extraction/SET/250/cTDaR_t10092.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>816</width>
+    <height>1056</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>borderless</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>205</xmin>
+      <ymin>251</ymin>
+      <xmax>731</xmax>
+      <ymax>429</ymax>
+    </bndbox>
+  </object>
+</annotation>
