@@ -29,7 +29,7 @@ List of tutorials from PyImageSearch
 
 
 ### Transfer-learning for object detectors of arbitrary new classes
-    * [author's graph](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=obj_detection.html#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1j95XoqyjE5Wv89KHblT7h28tpa6LHitj%26export%3Ddownload)
+    * [high-level graph](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=obj_detection.html#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1j95XoqyjE5Wv89KHblT7h28tpa6LHitj%26export%3Ddownload)
 
 
 
@@ -56,11 +56,12 @@ List of tutorials from PyImageSearch
     * [link 1](https://scikit-learn.org/0.15/modules/scaling_strategies.html#incremental-learning)
     * [link 2](https://www.pyimagesearch.com/2019/05/27/keras-feature-extraction-on-large-datasets-with-deep-learning/)
     * [link 3](https://www.pyimagesearch.com/2019/06/17/online-incremental-learning-with-keras-and-creme/)
-9. Data Augmentation:
+9. Dataset Expansion / Data Augmentation:
     * [link 1](https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/)
     * [link 2](https://github.com/aleju/imgaug)
     * [link 3](https://keras-ocr.readthedocs.io/en/latest/examples/end_to_end_training.html#generating-synthetic-data)
     * [link 4](https://towardsdatascience.com/tensorflow-and-image-augmentation-3610c6c243a2)
+    * [link 5](https://keras-ocr.readthedocs.io/en/latest/examples/end_to_end_training.html#generating-synthetic-data)
 10. Image Labelling:
     * [link](https://github.com/tzutalin/labelImg#windows--anaconda)
 

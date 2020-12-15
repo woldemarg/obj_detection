@@ -9,7 +9,10 @@ from tbl_detection.models.research.object_detection.utils import (
     visualization_utils)
 from tbl_detection.models.research.object_detection.data_decoders.tf_example_decoder import (
     TfExampleDecoder)
+from imutils.object_detection import non_max_suppression
 from tbl_detection import config
+
+# %matplotlib inline
 
 # %%
 
@@ -43,9 +46,6 @@ exported_detect_fn = detection_function_from_saved_model(
 category_index = label_map_util.create_category_index_from_labelmap(
       config.LABEL_MAP,
       use_display_name=True)
-
-print(category_index)
-
 
 # %%
 
@@ -119,6 +119,6 @@ def test_detection(tfrecords_filename, tfrecords_num, detect_fn):
 
 test_detection(
     tfrecords_filename=config.TEST_RECORD,
-    tfrecords_num=15,
+    tfrecords_num=14,
     detect_fn=exported_detect_fn
 )
